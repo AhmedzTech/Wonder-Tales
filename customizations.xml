@@ -1,0 +1,162 @@
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.24114.228" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.24114.00228">
+  <Entities></Entities>
+  <Roles></Roles>
+  <Workflows>
+    <Workflow WorkflowId="{f2618cab-cbd1-ef11-8ee9-6045bddf79fd}" Name="Final-Flow creates audio from input text for children">
+      <JsonFileName>/Workflows/Final-Flowcreatesaudiofrominputtextforchildren-F2618CAB-CBD1-EF11-8EE9-6045BDDF79FD.json</JsonFileName>
+      <Type>1</Type>
+      <Subprocess>0</Subprocess>
+      <Category>5</Category>
+      <Mode>0</Mode>
+      <Scope>4</Scope>
+      <OnDemand>0</OnDemand>
+      <TriggerOnCreate>0</TriggerOnCreate>
+      <TriggerOnDelete>0</TriggerOnDelete>
+      <AsyncAutodelete>0</AsyncAutodelete>
+      <SyncWorkflowLogOnFailure>0</SyncWorkflowLogOnFailure>
+      <StateCode>1</StateCode>
+      <StatusCode>2</StatusCode>
+      <RunAs>1</RunAs>
+      <IsTransacted>1</IsTransacted>
+      <IntroducedVersion>1.0.0.0</IntroducedVersion>
+      <IsCustomizable>1</IsCustomizable>
+      <BusinessProcessType>0</BusinessProcessType>
+      <IsCustomProcessingStepAllowedForOtherPublishers>1</IsCustomProcessingStepAllowedForOtherPublishers>
+      <PrimaryEntity>none</PrimaryEntity>
+      <LocalizedNames>
+        <LocalizedName languagecode="1033" description="Final-Flow creates audio from input text for children" />
+      </LocalizedNames>
+    </Workflow>
+    <Workflow WorkflowId="{f3618cab-cbd1-ef11-8ee9-6045bddf79fd}" Name="Final- Flow Generates_Images from Story Input Text">
+      <JsonFileName>/Workflows/Final-FlowGenerates_ImagesfromStoryInputText-F3618CAB-CBD1-EF11-8EE9-6045BDDF79FD.json</JsonFileName>
+      <Type>1</Type>
+      <Subprocess>0</Subprocess>
+      <Category>5</Category>
+      <Mode>0</Mode>
+      <Scope>4</Scope>
+      <OnDemand>0</OnDemand>
+      <TriggerOnCreate>0</TriggerOnCreate>
+      <TriggerOnDelete>0</TriggerOnDelete>
+      <AsyncAutodelete>0</AsyncAutodelete>
+      <SyncWorkflowLogOnFailure>0</SyncWorkflowLogOnFailure>
+      <StateCode>1</StateCode>
+      <StatusCode>2</StatusCode>
+      <RunAs>1</RunAs>
+      <IsTransacted>1</IsTransacted>
+      <IntroducedVersion>1.0.0.0</IntroducedVersion>
+      <IsCustomizable>1</IsCustomizable>
+      <BusinessProcessType>0</BusinessProcessType>
+      <IsCustomProcessingStepAllowedForOtherPublishers>1</IsCustomProcessingStepAllowedForOtherPublishers>
+      <PrimaryEntity>none</PrimaryEntity>
+      <LocalizedNames>
+        <LocalizedName languagecode="1033" description="Final- Flow Generates_Images from Story Input Text" />
+      </LocalizedNames>
+    </Workflow>
+    <Workflow WorkflowId="{f4618cab-cbd1-ef11-8ee9-6045bddf79fd}" Name="Final-Flow creates stories from input text">
+      <JsonFileName>/Workflows/Final-Flowcreatesstoriesfrominputtext-F4618CAB-CBD1-EF11-8EE9-6045BDDF79FD.json</JsonFileName>
+      <Type>1</Type>
+      <Subprocess>0</Subprocess>
+      <Category>5</Category>
+      <Mode>0</Mode>
+      <Scope>4</Scope>
+      <OnDemand>0</OnDemand>
+      <TriggerOnCreate>0</TriggerOnCreate>
+      <TriggerOnDelete>0</TriggerOnDelete>
+      <AsyncAutodelete>0</AsyncAutodelete>
+      <SyncWorkflowLogOnFailure>0</SyncWorkflowLogOnFailure>
+      <StateCode>1</StateCode>
+      <StatusCode>2</StatusCode>
+      <RunAs>1</RunAs>
+      <IsTransacted>1</IsTransacted>
+      <IntroducedVersion>1.0.0.0</IntroducedVersion>
+      <IsCustomizable>1</IsCustomizable>
+      <BusinessProcessType>0</BusinessProcessType>
+      <IsCustomProcessingStepAllowedForOtherPublishers>1</IsCustomProcessingStepAllowedForOtherPublishers>
+      <PrimaryEntity>none</PrimaryEntity>
+      <LocalizedNames>
+        <LocalizedName languagecode="1033" description="Final-Flow creates stories from input text" />
+      </LocalizedNames>
+    </Workflow>
+    <Workflow WorkflowId="{f5618cab-cbd1-ef11-8ee9-6045bddf79fd}" Name="Final-Flow save audio from input text for children">
+      <JsonFileName>/Workflows/Final-Flowsaveaudiofrominputtextforchildren-F5618CAB-CBD1-EF11-8EE9-6045BDDF79FD.json</JsonFileName>
+      <Type>1</Type>
+      <Subprocess>0</Subprocess>
+      <Category>5</Category>
+      <Mode>0</Mode>
+      <Scope>4</Scope>
+      <OnDemand>0</OnDemand>
+      <TriggerOnCreate>0</TriggerOnCreate>
+      <TriggerOnDelete>0</TriggerOnDelete>
+      <AsyncAutodelete>0</AsyncAutodelete>
+      <SyncWorkflowLogOnFailure>0</SyncWorkflowLogOnFailure>
+      <StateCode>1</StateCode>
+      <StatusCode>2</StatusCode>
+      <RunAs>1</RunAs>
+      <IsTransacted>1</IsTransacted>
+      <IntroducedVersion>1.0.0.0</IntroducedVersion>
+      <IsCustomizable>1</IsCustomizable>
+      <BusinessProcessType>0</BusinessProcessType>
+      <IsCustomProcessingStepAllowedForOtherPublishers>1</IsCustomProcessingStepAllowedForOtherPublishers>
+      <PrimaryEntity>none</PrimaryEntity>
+      <LocalizedNames>
+        <LocalizedName languagecode="1033" description="Final-Flow save audio from input text for children" />
+      </LocalizedNames>
+    </Workflow>
+  </Workflows>
+  <FieldSecurityProfiles></FieldSecurityProfiles>
+  <Templates />
+  <EntityMaps />
+  <EntityRelationships />
+  <OrganizationSettings />
+  <optionsets />
+  <CustomControls />
+  <EntityDataProviders />
+  <CanvasApps>
+    <CanvasApp>
+      <Name>cr49f_wondertales_717de</Name>
+      <AppVersion>2025-01-13T16:11:59Z</AppVersion>
+      <Status>Ready</Status>
+      <CreatedByClientVersion>3.24123.10.0</CreatedByClientVersion>
+      <MinClientVersion>3.24123.10.0</MinClientVersion>
+      <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","showStatusBar":"true","publisherVersion":"3.24123.10","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false","sienaVersion":"20250112T185309Z-3.24123.10.0","coauthoringEnabled":"true","multipleWritersEnabled":"true","acceptedCoauthoringTerms":"true"}</Tags>
+      <IsCdsUpgraded>0</IsCdsUpgraded>
+      <GalleryItemId xsi:nil="true"></GalleryItemId>
+      <BackgroundColor>rgba(255, 255, 255, 1)</BackgroundColor>
+      <DisplayName>Wonder Tales</DisplayName>
+      <Description xsi:nil="true"></Description>
+      <CommitMessage xsi:nil="true"></CommitMessage>
+      <Publisher xsi:nil="true"></Publisher>
+      <AuthorizationReferences>[]</AuthorizationReferences>
+      <ConnectionReferences>{"2843467f-9747-48cc-9cd9-36296f52c5b0":{"id":"/providers/microsoft.powerapps/apis/shared_sharepointonline","displayName":"SharePoint","iconUri":"https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1723/1.0.1723.3986/sharepointonline/icon.png","dataSources":["StoryVoice","WonderImg","Stories","History_WonderTales APP","Documents","WonderTales_Comments","Feedback List"],"dependencies":[],"dependents":["119a236d-e4a8-4f2d-8fe6-cd36c812d195","1a47f5c0-0bc0-46ce-b8c8-865707ea49f0"],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"https://lawauedu.sharepoint.com/sites/WonderTales":{"dataSources":{"StoryVoice":{"tableName":"085e9a51-2d3c-4de5-8bda-c3d8ffb95051"},"WonderImg":{"tableName":"3d49fd76-7261-44c9-a990-861b3a1da767"},"Stories":{"tableName":"7389a76c-6570-4a11-a987-04ebc051b14e"},"History_WonderTales APP":{"tableName":"8b15ed26-9b99-4e43-91e5-2c0f2f55c1ed"},"Documents":{"tableName":"647a820b-4f0f-4513-a78e-a855e10abd47"},"WonderTales_Comments":{"tableName":"58030811-5748-4ef9-8a47-2c6e4dae3375"},"Feedback List":{"tableName":"108e6f11-ae27-488c-9079-289a2a771282"}}}},"apiTier":"Standard","actions":["providers/PowerPlatform.Governance/Operations/Read","providers/PowerPlatform.Governance/Operations/Write"]},"119a236d-e4a8-4f2d-8fe6-cd36c812d195":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1725/1.0.1725.4004/logicflows/icon.png","dataSources":["Final-Flowsaveaudiofrominputtextforchildren"],"dependencies":["2843467f-9747-48cc-9cd9-36296f52c5b0"],"dependents":[],"parameterHints":{"workflowName":{"value":"b6c10dec-9f00-477d-93af-07b60d801e65"},"workflowEntityId":{},"workflowDisplayName":{"value":"Final-Flow save audio from input text for children"},"2843467f-9747-48cc-9cd9-36296f52c5b0":{"value":"shared_sharepointonline"}},"parameterHintsV2":{"workflowName":{"value":"b6c10dec-9f00-477d-93af-07b60d801e65"},"workflowEntityId":{},"workflowDisplayName":{"value":"Final-Flow save audio from input text for children"},"shared_sharepointonline":{"value":"2843467f-9747-48cc-9cd9-36296f52c5b0"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]},"d9ef2b54-2058-4dd9-b870-d9384860ee4c":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1725/1.0.1725.4004/logicflows/icon.png","dataSources":["Final-Flowcreatesstoriesfrominputtext"],"dependencies":[],"dependents":[],"parameterHints":{"workflowName":{"value":"aeef6e48-cf4c-40df-aae7-ba5defc24ed7"},"workflowEntityId":{},"workflowDisplayName":{"value":"Final-Flow creates stories from input text"}},"parameterHintsV2":{"workflowName":{"value":"aeef6e48-cf4c-40df-aae7-ba5defc24ed7"},"workflowEntityId":{},"workflowDisplayName":{"value":"Final-Flow creates stories from input text"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]},"ccc18cdf-5dcf-481b-b34b-0b350de9f933":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1725/1.0.1725.4004/logicflows/icon.png","dataSources":["Final-Flowcreatesaudiofrominputtextforchildren"],"dependencies":[],"dependents":[],"parameterHints":{"workflowName":{"value":"562d1e73-838e-4c90-9d06-d6deae099a58"},"workflowEntityId":{},"workflowDisplayName":{"value":"Final-Flow creates audio from input text for children"}},"parameterHintsV2":{"workflowName":{"value":"562d1e73-838e-4c90-9d06-d6deae099a58"},"workflowEntityId":{},"workflowDisplayName":{"value":"Final-Flow creates audio from input text for children"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]},"1a47f5c0-0bc0-46ce-b8c8-865707ea49f0":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1725/1.0.1725.4004/logicflows/icon.png","dataSources":["Final-FlowGenerates_ImagesfromStoryInputText"],"dependencies":["2843467f-9747-48cc-9cd9-36296f52c5b0"],"dependents":[],"parameterHints":{"workflowName":{"value":"6509fc4b-85f0-4b37-ad50-e1c402e73b0e"},"workflowEntityId":{},"workflowDisplayName":{"value":"Final- Flow Generates_Images from Story Input Text"},"2843467f-9747-48cc-9cd9-36296f52c5b0":{"value":"shared_sharepointonline"}},"parameterHintsV2":{"workflowName":{"value":"6509fc4b-85f0-4b37-ad50-e1c402e73b0e"},"workflowEntityId":{},"workflowDisplayName":{"value":"Final- Flow Generates_Images from Story Input Text"},"shared_sharepointonline":{"value":"2843467f-9747-48cc-9cd9-36296f52c5b0"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]}}</ConnectionReferences>
+      <DatabaseReferences>{}</DatabaseReferences>
+      <AppComponents>[]</AppComponents>
+      <AppComponentDependencies>[]</AppComponentDependencies>
+      <CanConsumeAppPass>0</CanConsumeAppPass>
+      <CanvasAppType>0</CanvasAppType>
+      <BypassConsent>0</BypassConsent>
+      <AdminControlBypassConsent>0</AdminControlBypassConsent>
+      <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+      <IsCustomizable>1</IsCustomizable>
+      <BackgroundImageUri>/CanvasApps/cr49f_wondertales_717de_BackgroundImageUri</BackgroundImageUri>
+      <DocumentUri>/CanvasApps/cr49f_wondertales_717de_DocumentUri.msapp</DocumentUri>
+      <AdditionalUris>
+        <AdditionalUri>/CanvasApps/cr49f_wondertales_717de_AdditionalUris0_identity.json</AdditionalUri>
+      </AdditionalUris>
+    </CanvasApp>
+  </CanvasApps>
+  <connectionreferences>
+    <connectionreference connectionreferencelogicalname="cr49f_sharedsharepointonline_03ae0">
+      <connectionreferencedisplayname>SharePoint Test-03ae0</connectionreferencedisplayname>
+      <connectorid>/providers/Microsoft.PowerApps/apis/shared_sharepointonline</connectorid>
+      <iscustomizable>1</iscustomizable>
+      <promptingbehavior>0</promptingbehavior>
+      <statecode>0</statecode>
+      <statuscode>1</statuscode>
+    </connectionreference>
+  </connectionreferences>
+  <Languages>
+    <Language>1033</Language>
+  </Languages>
+</ImportExportXml>
